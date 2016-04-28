@@ -1,0 +1,5 @@
+﻿  ArticulatorySynthesis.cpp
+e:\visual studio 2015\projects\articulatorysynthesis_ag\articulatorysynthesis\articulatorysynthesis.cpp(99): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  VT_sim.cpp
+  正在生成代码...
+  ArticulatorySynthesis.vcxproj -> E:\visual studio 2015\Projects\ArticulatorySynthesis_Ag\Debug\ArticulatorySynthesis.exe
